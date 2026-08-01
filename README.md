@@ -1,1 +1,0 @@
-# ZapretX-Discord-Telegram
